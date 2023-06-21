@@ -1,0 +1,7 @@
+com.example.gi_project.test.app-core-1.5.0-0 /Users/sushilgiri/.gradle/caches/transforms-3/bf1e231cd86953bf43281c96651487f7/transformed/core-1.5.0/res
+com.example.gi_project.test.app-annotation-experimental-1.3.0-1 /Users/sushilgiri/.gradle/caches/transforms-3/eacce61ab5302fb5641960e1d5a33f76/transformed/annotation-experimental-1.3.0/res
+com.example.gi_project.test.app-androidTest-2 /Users/sushilgiri/Desktop/GI_Project/app/build/generated/res/resValues/androidTest/debug
+com.example.gi_project.test.app-androidTest-3 /Users/sushilgiri/Desktop/GI_Project/app/build/generated/res/rs/androidTest/debug
+com.example.gi_project.test.app-mergeDebugAndroidTestResources-4 /Users/sushilgiri/Desktop/GI_Project/app/build/intermediates/incremental/debugAndroidTest/mergeDebugAndroidTestResources/merged.dir
+com.example.gi_project.test.app-mergeDebugAndroidTestResources-5 /Users/sushilgiri/Desktop/GI_Project/app/build/intermediates/incremental/debugAndroidTest/mergeDebugAndroidTestResources/stripped.dir
+com.example.gi_project.test.app-merged_res-6 /Users/sushilgiri/Desktop/GI_Project/app/build/intermediates/merged_res/debugAndroidTest
